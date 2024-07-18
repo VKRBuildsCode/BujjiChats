@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598480335590",
+    "project_id": "bujjichats",
+    "storage_bucket": "bujjichats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598480335590:android:f98eeb5ba5029fe01bc127",
+        "android_client_info": {
+          "package_name": "com.example.bujjichats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvjTDH1XFAm32y2gT-9aqrqoeBiR28qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
